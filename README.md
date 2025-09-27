@@ -278,3 +278,7 @@ The experiment successfully illustrated the comparative strengths and weaknesses
 For applications in mechanical engineering, specifically related to soft robotics, ChatGPT would be the most reliable tool due to its ability to provide clear, accurate, and detailed responses, while Claude could be a useful backup for less complex tasks. Perplexity, despite its utility in simpler contexts, would need further refinement for technical engineering tasks.
 
 ## Result
+Claude with chain-of-thought prompting produced the most accurate and structured summaries.
+ChatGPT performed well with few-shot prompting, balancing clarity and relevance.
+Copilot and Gemini were fast but less nuanced, especially in zero-shot and role-based modes.
+
